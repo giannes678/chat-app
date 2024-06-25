@@ -1,7 +1,7 @@
-#Realtime iOS Chat Application Source Code
+# Realtime iOS Chat Application Source Code
 
 
-##Features:
+## Features:
 Account Login & Authentication
 Personal Messages
 Group Chats
